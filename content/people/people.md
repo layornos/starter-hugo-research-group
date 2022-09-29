@@ -18,9 +18,8 @@ content:
   user_groups:
     - Principal Investigators
     - Researchers
+    - Members
     - Grad Students
-    - Administration
-    - Visitors
     - Alumni
 design:
   show_interests: false

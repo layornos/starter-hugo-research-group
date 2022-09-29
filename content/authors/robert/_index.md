@@ -43,8 +43,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Principal Investigators
 ---
 
 His research interests include modeling and analyzing software-intensive systems, for example from production and mobility, for various quality properties, such as performance, confidentiality and maintainability, to support evolution and adaptation. One core asset is the Palladio bench for quality assurance of component-based software systems.

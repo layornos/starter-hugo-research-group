@@ -1,6 +1,5 @@
 ---
-title: '
-A Layered Reference Architecture for Metamodels to Tailor Quality Modeling and Analysis'
+title: 'A Layered Reference Architecture for Metamodels to Tailor Quality Modeling and Analysis'
 authors:
   - robert
   - Misha Strittmatter
@@ -19,7 +18,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: 'IEEE Transactions on Software Engineering'
-publication_short: 'TSE'
+publication_short: 'TSE. Previous Project-related Publications'
 
 abstract: Nearly all facets of our everyday life strongly depend on software-intensive systems. Besides correctness, highly relevant quality properties of these systems include performance, as directly perceived by the user, and maintainability, as an important decision factor for evolution. These quality properties strongly depend on architectural design decisions. Hence, to ensure high quality, research and practice is interested in approaches to analyze the system architecture for quality properties. Therefore, models of the system architecture are created and used for analysis. Many different languages (often defined by metamodels) exist to model the systems and reason on their quality. Such languages are mostly specific to quality properties, tools or development paradigms. Unfortunately, the creation of a specific model for any quality property of interest and any different tool used is simply infeasible. Current metamodels for quality modeling and analysis are often not designed to be extensible and reusable. Experience from generalizing and extending metamodels result in hard to evolve and overly complex metamodels. A systematic way of creating, extending and reusing metamodels for quality modeling and analysis, or parts of them, does not exist yet. When comparing metamodels for different quality properties, however, substantial parts show quite similar language features. This leads to our approach to define the first reference architecture for metamodels for quality modeling and analysis. A reference architecture in software engineering provides a general architecture for a given application domain. In this paper, we investigate the applicability of modularization concepts from object-oriented design and the idea of a reference architecture to metamodels for quality modeling and analysis to systematically create, extend and reuse metamodel parts. Thus, the reference architecture allows to tailor metamodels. Requirements on the reference architecture are gathered from a historically grown metamodel. We specify modularization concepts as a foundation of the reference architecture. Detailed application guidelines are described. We argue the reference architecture supports instance compatibility and non-intrusive, independent extension of metamodels. In four case studies, we refactor historically grown metamodels and compare them to the original metamodels. The study results show the reference architecture significantly improves evolvability as well as need-specific use and reuse of metamodels.
 
