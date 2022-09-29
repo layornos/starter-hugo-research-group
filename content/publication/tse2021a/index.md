@@ -14,7 +14,7 @@ publishDate: '2022-09-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['9']
 
 # Publication name and optional abbreviated publication name.
 publication: 'IEEE Transactions on Software Engineering'
@@ -26,7 +26,7 @@ abstract: Nearly all facets of our everyday life strongly depend on software-int
 # summary: In this paper, we have extended our previously proposed approach for the characterization and the detection of SPAs that was designed to be integrated into CI/CDD pipelines, and its implementation is computationally efficient.
 
 tags:
-  - Source Themes
+  - Previous Project-related Publications
 featured: false
 
 # links:
