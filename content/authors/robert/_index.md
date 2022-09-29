@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Lead of Mobility Lab in KASTEL, Head of Quality-driven System Evolution Research Group, Head of the Quality-driven System Evolution Research Group
+role: Karlsruhe Institute of Technology
 
 # Organizations/Affiliations
 organizations:

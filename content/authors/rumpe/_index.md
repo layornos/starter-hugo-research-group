@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Full professor at the RWTH Aachen University. Head of the Department for Software Engineering
+role: RWTH Aachen University
 
 # Organizations/Affiliations
 organizations:
