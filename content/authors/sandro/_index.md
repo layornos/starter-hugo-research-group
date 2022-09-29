@@ -6,7 +6,7 @@ title: Sandro Koch
 superuser: true
 
 # Role/position
-role: Researcher
+role: Karlsruhe Institute of Technology
 
 # Organizations/Affiliations
 organizations:
