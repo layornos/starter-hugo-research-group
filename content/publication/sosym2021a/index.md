@@ -3,7 +3,7 @@ title: 'Multi-paradigm modelling for cyber–physical systems: a descriptive fra
 authors:
   - Moussa Amrani
   - Dominique Blouin
-  - robert
+  - Robert Heinrich 
   - Arend Rensink
   - Hans Vangheluwe
   - Andreas Wortmann 
